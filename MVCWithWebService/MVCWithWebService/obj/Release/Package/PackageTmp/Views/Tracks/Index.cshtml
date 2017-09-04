@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MVCWithWebService.Models.Track>
+
+@{
+    ViewBag.Title = "Track Details";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New Track", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+          Facility Name
+        </th>
+        <th>
+           Track Title
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Facility.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TrackID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TrackID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TrackID })
+        </td>
+    </tr>
+}
+
+</table>

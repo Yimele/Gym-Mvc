@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="mvcwithwebservice" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Ajinkya\ Project\\MVC5\\MVCWithWebService\\MVCWithWebService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Ajinkya\ Project\\MVC5\\MVCWithWebService\\MVCWithWebService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="GymContext-Web.config Connection String" description="" value="Data Source=tcp:mvcgymdbserver.database.windows.net,1433;Initial Catalog=gymapp;Persist Security Info=False;User ID=gymadmin;Password=admin@123;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Ajinkya\ Project\\MVC5\\MVCWithWebService\\MVCWithWebService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GymContext']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GymContext-Web.config Connection String" description="GymContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=MVCWithWebService;Integrated Security=SSPI;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Ajinkya\ Project\\MVC5\\MVCWithWebService\\MVCWithWebService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GymContext']/@connectionString" />
+  </parameter>
+  <parameter name="GymContext_DatabasePublish-Web.config Connection String" description="GymContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="GymContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Ajinkya\ Project\\MVC5\\MVCWithWebService\\MVCWithWebService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GymContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

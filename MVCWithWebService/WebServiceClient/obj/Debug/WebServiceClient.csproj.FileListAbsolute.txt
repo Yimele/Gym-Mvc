@@ -1,0 +1,14 @@
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\WebServiceClient.exe
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\WebServiceClient.pdb
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\obj\Debug\WebServiceClient.exe
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\obj\Debug\WebServiceClient.pdb
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\Newtonsoft.Json.dll
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\System.Web.Http.dll
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\System.Web.Http.WebHost.dll
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\Newtonsoft.Json.xml
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\System.Web.Http.xml
+D:\Ajinkya Project\MVC5\MVCWithWebService\WebServiceClient\bin\Debug\System.Web.Http.WebHost.xml
